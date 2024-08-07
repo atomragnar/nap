@@ -1,6 +1,6 @@
-module github.com/maaslalani/nap
+module github.com/atomragnar/nap
 
-go 1.19
+go 1.22
 
 require (
 	github.com/adrg/xdg v0.4.0
